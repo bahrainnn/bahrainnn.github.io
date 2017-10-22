@@ -2,6 +2,7 @@
 	font-size: 60px;
 	margin-left: 10px;
 	margin-top: 10px;
+	
 }
 
 .text{
@@ -27,6 +28,7 @@
 
 .card{
 	margin-top: 20px;
+	background-color: lightpink;
 }
 
 .para{
@@ -42,10 +44,31 @@ h4{
 	margin-left:10px;
 }
 
+
+.card-title:hover{
+	color: red;
+}
+
 .bullet-point{
 	margin-left:-30px;
+	margin-top: 10px;
 	font-weight: bold;
 	font-family: arial;
+
+}
+
+.coins{
+	width:200px;
+	height: 100px;
+	margin-left: 500px;
+	top: 70px;
+
+
+}
+
+.315{
+	margin-bottom: 30px;
+	margin-left:20px;
 }
 
 
