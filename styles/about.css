@@ -1,0 +1,55 @@
+.title-text{
+	font-size: 60px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.text{
+	font-family: apple-chancery;
+	margin-left:10px;
+}
+
+.paragraph{
+	margin-left:10px;
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+	font-size: 14px;
+}
+
+.profile-pic{
+	width: 100%;
+}
+
+.card-footer {
+	margin-top: 30px;
+}
+
+.card{
+	margin-top: 20px;
+}
+
+.para{
+	font-family: arial;
+	font-weight:bold;
+}
+
+h4{
+	margin-top: 10px;
+}
+
+.card-title.text-left{
+	margin-left:10px;
+}
+
+.bullet-point{
+	margin-left:-30px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+
+
+
+
+
